@@ -1,0 +1,59 @@
+const data = [
+    {
+        "id": "1",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    }, 
+
+    {
+        "id": "2",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    },
+
+    {
+        "id": "3",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    },
+
+    {
+        "id": "4",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    },
+
+    {
+        "id": "5",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    },
+
+    {
+        "id": "6",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    }, 
+
+    {
+        "id": "7",
+        "nome": "batata",
+        "idade": "48",
+        "data": "10/10/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+    }
+]
+
+export default data
